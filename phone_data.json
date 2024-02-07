@@ -1,0 +1,587 @@
+{
+ "AT&T": {
+  "at&t_8525-2601": {
+   "brand": "AT&T",
+   "dimension": "176g, 22mm thickness",
+   "os": "Microsoft Windows Mobile 6 Professional",
+   "phone_images": [
+    "https://fdn2.gsmarena.com/vv/pics/att/att-8525-1.jpg",
+    "https://fdn2.gsmarena.com/vv/pics/att/att-8525-2.jpg"
+   ],
+   "phone_name": "8525",
+   "release_date": "Released 2006, June",
+   "specifications": {
+    "Battery": {
+     "Stand-by": [
+      "Up to 250 h"
+     ],
+     "Talk time": [
+      "Up to 5 h"
+     ],
+     "Type": [
+      "Removable Li-Po 1350 mAh battery"
+     ]
+    },
+    "Body": {
+     "Dimensions": [
+      "113 x 58 x 22 mm (4.45 x 2.28 x 0.87 in)"
+     ],
+     "Keyboard": [
+      "QWERTY"
+     ],
+     "SIM": [
+      "Mini-SIM"
+     ],
+     "Weight": [
+      "176 g (6.21 oz)"
+     ]
+    },
+    "Comms": {
+     "Bluetooth": [
+      "2.0, A2DP"
+     ],
+     "Infrared port": [
+      "Yes"
+     ],
+     "Positioning": [
+      "No"
+     ],
+     "Radio": [
+      "No"
+     ],
+     "USB": [
+      "1.1"
+     ],
+     "WLAN": [
+      "Wi-Fi 802.11b/g"
+     ]
+    },
+    "Display": {
+     "Other": [
+      "Handwriting recognition\n"
+     ],
+     "Resolution": [
+      "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+     ],
+     "Size": [
+      "2.8 inches, 42 x 57 mm, 24.3 cm2 (~37.0% screen-to-body ratio)"
+     ],
+     "Type": [
+      "TFT resistive touchscreen, 65K colors"
+     ]
+    },
+    "Features": {
+     "Browser": [
+      "WAP 2.0/xHTML, HTML (PocketIE)"
+     ],
+     "Other": [
+      "Pocket Office \nVoice memo\nMP3/AAC player"
+     ],
+     "Sensors": [
+      ""
+     ]
+    },
+    "Launch": {
+     "Announced": [
+      "2006, June"
+     ],
+     "Status": [
+      "Discontinued"
+     ]
+    },
+    "Main Camera": {
+     "Features": [
+      "LED flash"
+     ],
+     "Single": [
+      "2 MP"
+     ],
+     "Video": [
+      "Yes"
+     ]
+    },
+    "Memory": {
+     "Card slot": [
+      "microSDHC (dedicated slot)"
+     ],
+     "Internal": [
+      "64MB RAM, 128MB ROM"
+     ]
+    },
+    "Misc": {
+     "Colors": [
+      "Silver, Black"
+     ]
+    },
+    "Network": {
+     "2G bands": [
+      "GSM 850 / 900 / 1800 / 1900 "
+     ],
+     "3G bands": [
+      "HSDPA 850 / 1900 / 2100 "
+     ],
+     "Speed": [
+      "HSPA 1.8 Mbps"
+     ],
+     "Technology": [
+      "GSM / HSPA"
+     ]
+    },
+    "Platform": {
+     "CPU": [
+      "400 MHz Samsung"
+     ],
+     "OS": [
+      "Microsoft Windows Mobile 6 Professional"
+     ]
+    },
+    "Selfie camera": {
+     "Other": [
+      "No"
+     ]
+    },
+    "Sound": {
+     "3.5mm jack": [
+      "No"
+     ],
+     "Loudspeaker": [
+      "Yes"
+     ]
+    }
+   },
+   "storage": "64MB RAM storage, microSDHC slot",
+   "thumbnail": "https://fdn2.gsmarena.com/vv/bigpic/att-8525.jpg"
+  },
+  "at&t_mustang-2602": {
+   "brand": "AT&T",
+   "dimension": "110g, 19.9mm thickness",
+   "os": "Windows Mobile 6 Standard",
+   "phone_images": [],
+   "phone_name": "Mustang",
+   "release_date": "Released 2007, October",
+   "specifications": {
+    "Battery": {
+     "Stand-by": [
+      "Up to 240 h"
+     ],
+     "Talk time": [
+      "Up to 3 h"
+     ],
+     "Type": [
+      "Removable Li-Po 1320 mAh battery"
+     ]
+    },
+    "Body": {
+     "Dimensions": [
+      "102 x 50 x 19.9 mm (4.02 x 1.97 x 0.78 in)"
+     ],
+     "Keyboard": [
+      "QWERTY"
+     ],
+     "Other": [
+      "Dual slide design"
+     ],
+     "SIM": [
+      "Mini-SIM"
+     ],
+     "Weight": [
+      "110 g (3.88 oz)"
+     ]
+    },
+    "Comms": {
+     "Bluetooth": [
+      "1.2, A2DP"
+     ],
+     "Positioning": [
+      "No"
+     ],
+     "Radio": [
+      "No"
+     ],
+     "USB": [
+      "1.1"
+     ],
+     "WLAN": [
+      "No"
+     ]
+    },
+    "Display": {
+     "Resolution": [
+      "240 x 320 pixels, 4:3 ratio (~182 ppi density)"
+     ],
+     "Size": [
+      "2.2 inches, 15.0 cm2 (~29.4% screen-to-body ratio)"
+     ],
+     "Type": [
+      "TFT, 256K colors"
+     ]
+    },
+    "Features": {
+     "Browser": [
+      "WAP 2.0/xHTML, HTML (PocketIE)"
+     ],
+     "Other": [
+      "Pocket Office \nVoice memo\nMP3/AAC/AAC+/WMA/OGG/AMR player\nWMV/MP4 player\nFile manager"
+     ],
+     "Sensors": [
+      ""
+     ]
+    },
+    "Launch": {
+     "Announced": [
+      "2007, October. Released 2007, October"
+     ],
+     "Status": [
+      "Discontinued"
+     ]
+    },
+    "Main Camera": {
+     "Single": [
+      "1.3 MP"
+     ],
+     "Video": [
+      "Yes"
+     ]
+    },
+    "Memory": {
+     "Card slot": [
+      "microSD (dedicated slot)"
+     ],
+     "Internal": [
+      "64MB RAM, 128MB ROM"
+     ]
+    },
+    "Misc": {
+     "Colors": [
+      "Black"
+     ]
+    },
+    "Network": {
+     "2G bands": [
+      "GSM 850 / 900 / 1800 / 1900 "
+     ],
+     "3G bands": [
+      "HSDPA 850 / 1900 "
+     ],
+     "Speed": [
+      "HSPA 1.8 Mbps"
+     ],
+     "Technology": [
+      "GSM / HSPA"
+     ]
+    },
+    "Platform": {
+     "CPU": [
+      "Marvell Bulverde 416 MHz"
+     ],
+     "OS": [
+      "Windows Mobile 6 Standard"
+     ]
+    },
+    "Selfie camera": {
+     "Other": [
+      "No"
+     ]
+    },
+    "Sound": {
+     "3.5mm jack": [
+      "Yes"
+     ],
+     "Loudspeaker": [
+      "Yes"
+     ]
+    }
+   },
+   "storage": "64MB RAM storage, microSD slot"
+  },
+  "at&t_quickfire-2598": {
+   "brand": "AT&T",
+   "dimension": "136g, 18mm thickness",
+   "os": "Feature phone",
+   "phone_images": [
+    "https://fdn2.gsmarena.com/vv/pics/att/quickfire-1.jpg",
+    "https://fdn2.gsmarena.com/vv/pics/att/quickfire-2.jpg"
+   ],
+   "phone_name": "Quickfire",
+   "release_date": "Released 2008, November",
+   "specifications": {
+    "Battery": {
+     "Stand-by": [
+      "Up to 288 h"
+     ],
+     "Talk time": [
+      "Up to 3 h"
+     ],
+     "Type": [
+      "Removable Li-Ion 1200 mAh battery"
+     ]
+    },
+    "Body": {
+     "Dimensions": [
+      "109 x 56 x 18 mm (4.29 x 2.20 x 0.71 in)"
+     ],
+     "Keyboard": [
+      "QWERTY"
+     ],
+     "SIM": [
+      "Mini-SIM"
+     ],
+     "Weight": [
+      "136 g (4.80 oz)"
+     ]
+    },
+    "Comms": {
+     "Bluetooth": [
+      "1.2, A2DP"
+     ],
+     "Positioning": [
+      "GPS, A-GPS"
+     ],
+     "Radio": [
+      "No"
+     ],
+     "USB": [
+      "Proprietary"
+     ],
+     "WLAN": [
+      "No"
+     ]
+    },
+    "Display": {
+     "Resolution": [
+      "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+     ],
+     "Size": [
+      "2.8 inches, 24.3 cm2 (~39.8% screen-to-body ratio)"
+     ],
+     "Type": [
+      "TFT, 256K colors"
+     ]
+    },
+    "Features": {
+     "Browser": [
+      "WAP 2.0/xHTML"
+     ],
+     "Games": [
+      "Yes"
+     ],
+     "Java": [
+      "Yes, MIDP 2.0"
+     ],
+     "Messaging": [
+      "SMS, MMS, Email, IM"
+     ],
+     "Other": [
+      "MP3/eAAC+/WMA player\nMP4/H.263 player\nOrganizer\nVoice memo/dial/commands\nPredictive text input"
+     ],
+     "Sensors": [
+      ""
+     ]
+    },
+    "Launch": {
+     "Announced": [
+      "2008, November. Released 2008, November"
+     ],
+     "Status": [
+      "Discontinued"
+     ]
+    },
+    "Main Camera": {
+     "Single": [
+      "1.3 MP"
+     ],
+     "Video": [
+      "Yes"
+     ]
+    },
+    "Memory": {
+     "Call records": [
+      "Yes"
+     ],
+     "Card slot": [
+      "microSD (dedicated slot)"
+     ],
+     "Internal": [
+      "29MB"
+     ],
+     "Phonebook": [
+      "Yes, Photocall"
+     ]
+    },
+    "Misc": {
+     "Colors": [
+      "Gray, Green, Orange"
+     ],
+     "SAR": [
+      "1.10 W/kg (head) \u00a0 \u00a0 0.99 W/kg (body) \u00a0 \u00a0 "
+     ]
+    },
+    "Network": {
+     "2G bands": [
+      "GSM 850 / 900 / 1800 / 1900 "
+     ],
+     "3G bands": [
+      "HSDPA 850 / 1900 / 2100 "
+     ],
+     "Speed": [
+      "HSPA 3.6/0.384 Mbps"
+     ],
+     "Technology": [
+      "GSM / HSPA"
+     ]
+    },
+    "Selfie camera": {
+     "Other": [
+      "No"
+     ]
+    },
+    "Sound": {
+     "3.5mm jack": [
+      "No"
+     ],
+     "Loudspeaker": [
+      "Yes"
+     ]
+    }
+   },
+   "storage": "29MB storage, microSD slot",
+   "thumbnail": "https://fdn2.gsmarena.com/vv/bigpic/quickfire.jpg"
+  },
+  "at&t_smt5700-2603": {
+   "brand": "AT&T",
+   "dimension": "14mm thickness",
+   "os": "Microsoft Windows Mobile 5.0 PocketPC",
+   "phone_images": [
+    "https://fdn2.gsmarena.com/vv/pics/att/att-5700-1.jpg"
+   ],
+   "phone_name": "SMT5700",
+   "release_date": "Released 2007, November",
+   "specifications": {
+    "Battery": {
+     "Type": [
+      "Removable Li-Ion battery"
+     ]
+    },
+    "Body": {
+     "Dimensions": [
+      "112 x 60 x 14 mm (4.41 x 2.36 x 0.55 in)"
+     ],
+     "Keyboard": [
+      "QWERTY"
+     ],
+     "SIM": [
+      "Mini-SIM"
+     ],
+     "Weight": [
+      ""
+     ]
+    },
+    "Comms": {
+     "Bluetooth": [
+      "1.2, A2DP"
+     ],
+     "Positioning": [
+      "No"
+     ],
+     "Radio": [
+      "No"
+     ],
+     "USB": [
+      "Proprietary"
+     ],
+     "WLAN": [
+      "No"
+     ]
+    },
+    "Display": {
+     "Resolution": [
+      "320 x 240 pixels, 4:3 ratio"
+     ],
+     "Size": [
+      ""
+     ],
+     "Type": [
+      "TFT, 65K colors"
+     ]
+    },
+    "Features": {
+     "Browser": [
+      "WAP 2.0/xHTML"
+     ],
+     "Other": [
+      "Pocket Office \nMP3/MP4 player\nVoice dial\nPredictive text input"
+     ],
+     "Sensors": [
+      ""
+     ]
+    },
+    "Launch": {
+     "Announced": [
+      "2007, November"
+     ],
+     "Status": [
+      "Discontinued"
+     ]
+    },
+    "Main Camera": {
+     "Single": [
+      "2 MP"
+     ],
+     "Video": [
+      "Yes"
+     ]
+    },
+    "Memory": {
+     "Card slot": [
+      "microSD (dedicated slot)"
+     ]
+    },
+    "Misc": {
+     "Colors": [
+      "Gray"
+     ]
+    },
+    "Network": {
+     "2G bands": [
+      "GSM 850 / 1800 / 1900 "
+     ],
+     "EDGE": [
+      "Class 10"
+     ],
+     "GPRS": [
+      "Class 10"
+     ],
+     "Technology": [
+      "GSM"
+     ]
+    },
+    "Platform": {
+     "CPU": [
+      "260 MHz"
+     ],
+     "Chipset": [
+      "TI OMAP V1030"
+     ],
+     "OS": [
+      "Microsoft Windows Mobile 5.0 PocketPC"
+     ]
+    },
+    "Selfie camera": {
+     "Other": [
+      "No"
+     ]
+    },
+    "Sound": {
+     "3.5mm jack": [
+      "No"
+     ],
+     "Loudspeaker": [
+      "Yes"
+     ]
+    }
+   },
+   "storage": "microSD slot",
+   "thumbnail": "https://fdn2.gsmarena.com/vv/bigpic/att-5700.jpg"
+  }
+ }
+}
