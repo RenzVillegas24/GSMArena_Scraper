@@ -1,0 +1,155 @@
+[
+    {'title': 'Network', 'specs': [
+            {'key': 'Technology', 'val': ['GSM / HSPA'
+                ]
+            },
+            {'key': '2G bands', 'val': ['GSM 850 / 900 / 1800 / 1900 '
+                ]
+            },
+            {'key': '3G bands', 'val': ['HSDPA 850 / 1900 / 2100 '
+                ]
+            },
+            {'key': 'Speed', 'val': ['HSPA 3.6/0.384 Mbps'
+                ]
+            }
+        ]
+    },
+    {'title': 'Launch', 'specs': [
+            {'key': 'Announced', 'val': ['2008, November. Released 2008, November'
+                ]
+            },
+            {'key': 'Status', 'val': ['Discontinued'
+                ]
+            }
+        ]
+    },
+    {'title': 'Body', 'specs': [
+            {'key': 'Dimensions', 'val': ['109 x 56 x 18 mm (4.29 x 2.20 x 0.71 in)'
+                ]
+            },
+            {'key': 'Weight', 'val': ['136 g (4.80 oz)'
+                ]
+            },
+            {'key': 'Keyboard', 'val': ['QWERTY'
+                ]
+            },
+            {'key': 'SIM', 'val': ['Mini-SIM'
+                ]
+            }
+        ]
+    },
+    {'title': 'Display', 'specs': [
+            {'key': 'Type', 'val': ['TFT,
+                    256K colors'
+                ]
+            },
+            {'key': 'Size', 'val': ['2.8 inches,
+                    24.3 cm2 (~39.8% screen-to-body ratio)'
+                ]
+            },
+            {'key': 'Resolution', 'val': ['240 x 320 pixels,
+                    4: 3 ratio (~143 ppi density)'
+                ]
+            }
+        ]
+    },
+    {'title': 'Memory', 'specs': [
+            {'key': 'Card slot', 'val': ['microSD (dedicated slot)'
+                ]
+            },
+            {'key': 'Phonebook', 'val': ['Yes, Photocall'
+                ]
+            },
+            {'key': 'Call records', 'val': ['Yes'
+                ]
+            },
+            {'key': 'Internal', 'val': ['29MB'
+                ]
+            }
+        ]
+    },
+    {'title': 'Main Camera', 'specs': [
+            {'key': 'Single', 'val': ['1.3 MP'
+                ]
+            },
+            {'key': 'Video', 'val': ['Yes'
+                ]
+            }
+        ]
+    },
+    {'title': 'Selfie camera', 'specs': [
+            {'key': 'Other', 'val': ['No'
+                ]
+            }
+        ]
+    },
+    {'title': 'Sound', 'specs': [
+            {'key': 'Loudspeaker', 'val': ['Yes'
+                ]
+            },
+            {'key': '3.5mm jack', 'val': ['No'
+                ]
+            }
+        ]
+    },
+    {'title': 'Comms', 'specs': [
+            {'key': 'WLAN', 'val': ['No'
+                ]
+            },
+            {'key': 'Bluetooth', 'val': ['1.2, A2DP'
+                ]
+            },
+            {'key': 'Positioning', 'val': ['GPS, A-GPS'
+                ]
+            },
+            {'key': 'Radio', 'val': ['No'
+                ]
+            },
+            {'key': 'USB', 'val': ['Proprietary'
+                ]
+            }
+        ]
+    },
+    {'title': 'Features', 'specs': [
+            {'key': 'Sensors', 'val': [''
+                ]
+            },
+            {'key': 'Messaging', 'val': ['SMS, MMS, Email, IM'
+                ]
+            },
+            {'key': 'Browser', 'val': ['WAP 2.0/xHTML'
+                ]
+            },
+            {'key': 'Games', 'val': ['Yes'
+                ]
+            },
+            {'key': 'Java', 'val': ['Yes, MIDP 2.0'
+                ]
+            },
+            {'key': 'Other', 'val': ['MP3/eAAC+/WMA player\nMP4/H.263 player\nOrganizer\nVoice memo/dial/commands\nPredictive text input'
+                ]
+            }
+        ]
+    },
+    {'title': 'Battery', 'specs': [
+            {'key': 'Type', 'val': ['Removable Li-Ion 1200 mAh battery'
+                ]
+            },
+            {'key': 'Stand-by', 'val': ['Up to 288 h'
+                ]
+            },
+            {'key': 'Talk time', 'val': ['Up to 3 h'
+                ]
+            }
+        ]
+    },
+    {'title': 'Misc', 'specs': [
+            {'key': 'Colors', 'val': ['Gray, Green, Orange'
+                ]
+            },
+            {'key': 'SAR', 'val': ['1.10 W/kg (head) \xa0 \xa0 0.99 W/kg (body) \xa0 \xa0 '
+                ]
+            }
+        ]
+    }
+]
