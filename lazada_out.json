@@ -9,39 +9,76 @@
  "Xiaomi 11i": {},
  "Xiaomi 11i HyperCharge 5G": {},
  "Xiaomi 11T": {
-  "URL": "//www.lazada.com.ph/products/kimstore-xiaomi-mi-11t-128gb-256gb-i4037618607.html",
-  "Ratings": "0",
-  "Reviews": "",
-  "Price": "37081",
-  "Original Price": "43625"
+  "URL": "//www.lazada.com.ph/products/xiaomi-mi-11t-8gb128gb8gb256gb-i2487883375.html",
+  "Ratings": "4.946745562130178",
+  "Reviews": "169",
+  "Price": "14500",
+  "Original Price": "24990"
  },
  "Xiaomi 11T Pro": {},
- "Xiaomi 12": {},
- "Xiaomi 12 Lite": {},
+ "Xiaomi 12": {
+  "URL": "//www.lazada.com.ph/products/xiaomi-redmi-12-smartphone-8gb-ram256gb-rom-mediatek-helio-g88-679-fhd-dotdisplay-50mp-main-camera-5000mah-battery-18w-fast-charging-i4104287929.html",
+  "Ratings": "5.0",
+  "Reviews": "2",
+  "Price": "8499",
+  "Original Price": "10999"
+ },
+ "Xiaomi 12 Lite": {
+  "URL": "//www.lazada.com.ph/products/new-arrivalxiaomi-12-lite-global-version-smartphone-snapdragon-778g-655-amoled-108mp-camera-120hz-nfc-67w-charging-i3225116476.html",
+  "Ratings": "4.963636363636364",
+  "Reviews": "55",
+  "Price": "17390",
+  "Original Price": "43304"
+ },
  "Xiaomi 12 Pro": {
-  "URL": "//www.lazada.com.ph/products/xiaomi-redmi-note-12-pro-5g-i4277784560.html",
-  "Ratings": "0",
-  "Reviews": "",
-  "Price": "10394.3",
-  "Original Price": "14849"
+  "URL": "//www.lazada.com.ph/products/xiaomi-12-pro-5g-snapdragon-8-gen1-95-new-used-wirelss-charging-qualcomm-smartphone-120w-qc-miui-13-4600mah-battery-50mp-camera-mobile-phone-global-rom-i3885065293.html",
+  "Ratings": "5.0",
+  "Reviews": "19",
+  "Price": "12980",
+  "Original Price": "27000"
  },
  "Xiaomi 12 Pro (Dimensity)": {},
  "Xiaomi 12S": {},
- "Xiaomi 12S Pro": {},
- "Xiaomi 12S Ultra": {
-  "URL": "//www.lazada.com.ph/products/xiaomi-redmi-9c-5g-original-cellphone-big-sale16512gb-mobile-phone-smartphone-android-mobiles-phone-lowest-price-cheap-mobile-phone-smartphone-realme-oppo-smart-phone-samsung-vivo-poco-infinix-store-official-cod-i3798572582.html",
-  "Ratings": "4.621621621621622",
-  "Reviews": "37",
-  "Price": "1699",
-  "Original Price": "5999"
- },
- "Xiaomi 12T": {},
- "Xiaomi 12T Pro": {},
- "Xiaomi 12X": {
-  "URL": "//www.lazada.com.ph/products/xiaomi-redmi-12-cellphone-original-2023-android-mobile-phone-100-brand-new-smartphone-8gb512gb-65inch-smart-phone-gaming-phone-cod-i4313862976.html",
+ "Xiaomi 12S Pro": {
+  "URL": "//www.lazada.com.ph/products/xiaomi-12s-pro-leica-lens-snapdragon-8-gen-1-octa-core-120hz-673-amoled-display-50mp-triple-camera-4600mah-battery-5g-cellphone-sealed-box-i4212726648.html",
   "Ratings": "5.0",
-  "Reviews": "93",
-  "Price": "1899",
-  "Original Price": "4199"
+  "Reviews": "2",
+  "Price": "25000",
+  "Original Price": "49800"
+ },
+ "Xiaomi 12S Ultra": {
+  "URL": "//www.lazada.com.ph/products/used-98-new-xiaomi-mi-12s-ultra-smartphone-256gb512gb-snapdragon-8-gen-1-octa-core-50mp-leica-lens-120hz-673-used-phone-i4326124009.html",
+  "Ratings": "0",
+  "Reviews": "",
+  "Price": "36800",
+  "Original Price": "49800"
+ },
+ "Xiaomi 12T": {
+  "URL": "//www.lazada.com.ph/products/xiaomi-12t-dimensity-8100-ultra-processor-8gb-128gb256gb-108mp-triple-camera-smartphone-i3943788031.html",
+  "Ratings": "5.0",
+  "Reviews": "2",
+  "Price": "24999",
+  "Original Price": "28999"
+ },
+ "Xiaomi 12T Pro": {
+  "URL": "//www.lazada.com.ph/products/redmi-k50-ultraxiaomi-12t-pro-global-rom-smartphones-108mp-camera-120w-fast-charging-5000mah-extreme-edition-snapdragon-8-gen-1-95new-used-i3958661253.html",
+  "Ratings": "0",
+  "Reviews": "",
+  "Price": "23000",
+  "Original Price": "33000"
+ },
+ "Xiaomi 12X": {
+  "URL": "//www.lazada.com.ph/products/xiaomi-mi-12x-smartphone-67w-fast-charging-qualcomm-snapdragon-870-50mp-camera-628-miui-125-global-rom-fingerprint-identification-95new-i4171191286.html",
+  "Ratings": "5.0",
+  "Reviews": "15",
+  "Price": "12980",
+  "Original Price": "21904.97"
+ },
+ "Xiaomi 13": {
+  "URL": "//www.lazada.com.ph/products/xiaomi-13-5g-12256gb-snapdragon-8-gen-2-120hz-oled-98new-used-54mp-leica-triple-camera-4500mah-67w-ip68-global-rom-i4255252748.html",
+  "Ratings": "5.0",
+  "Reviews": "3",
+  "Price": "27980",
+  "Original Price": "39800"
  }
 }
